@@ -1,0 +1,227 @@
+Bloodlines: The Legacy of Charlemagne (Part 1)
+
+# Bloodlines: The Legacy of Charlemagne
+
+**A Crusader Kings II After-Action Report**
+
+ 
+
+[The House of Karling](https://preview.redd.it/gz80aia1w5351.png?width=461&format=png&auto=webp&v=enabled&s=82fb5b772771ae79d234bd57f663467b30aafa5b)
+
+&#x200B;
+
+**Introduction**
+
+&#x200B;
+
+https://preview.redd.it/m011qagaw5351.png?width=459&format=png&auto=webp&v=enabled&s=04acbc9b25dd19cf44239ba0565271be4cb23cf2
+
+ 
+
+>In the year 768, a man named Charles (or Karl) became King of the Franks and though he did not know it at the time, he would be remembered for centuries to come as the father of Europe. Charles would go on to conquer an Empire spanning all of France, western Germany, and most of Italy. Charles would go down as Charles the Great or Charlemagne and his descendants would rule Europe for centuries. Though over time the realms of Charlemagne were taken over by other cadet branches and dynasties such as the Capets and the Ottovian Emperors. By the year 1066, the House of Karling was nearly extinct. The only direct male heir of Charlemagne left was Count Herbert of Vermandois along with his unlanded brothers and son. The last remaining son of the Father of Europe.  
+>  
+>This is an AAR or After Action Report for Crusader Kings 2 (CKII). CKII is a medieval politics simulator taking place across the middle ages as far back as 769 all the way to 1453. In this AAR I will be telling the story of my campaign taking place between 1066 and 1444. Unlike in most historical strategy games, in CKII you play not as a single nation but as a continuous bloodline and dynasty. There is a lot more focus on the roleplaying aspects of these rulers lives as you’ll see.  
+>  
+>In this particular AAR I will be playing probably one of the most famous dynasties in Medieval history, the House of Karling (more famously known as the Carolingian Dynasty). These are the direct descendants of Charlemagne, the King of Franks, first Holy Roman Emperor, and the man basically responsible for the existence of France and Germany (and by extension Western Europe as we know it). Of course as time has passed the Karlings have slowly lost their positions of power as other families have risen up through marriage, rebellion, and conquests. We will be playing Count Herbert of Vermandois. Herbert is a subject of the French King and also the last landed member of the House of Karling. His son and his two brothers along with him are the last direct male descendants of Charlemagne. Historically, Herberts only son ended up passing without having any children thus ending the Karling lineage. With us at the helm, we can hopefully not only keep the legacy of Charlemagne going but restore the Karlings to the French crown where they rightfully belong.
+
+&#x200B;
+
+# The 11th Century: The End of an Age
+
+&#x200B;
+
+[Europe c. 26th of December, 1066](https://preview.redd.it/091tie1xw5351.png?width=624&format=png&auto=webp&v=enabled&s=a3e6e051c43f44131f5e49a37c0070dd6504e411)
+
+Europe by the later half of the 11th century was seeing large shifts that would go on to define its history. The Age of the Vikings had come to an end when King Harold Godwinson of England defeated the Norwegian invaders in the Battle of Stamford Bridge earlier this year. William the Conqueror and his Norman armies successfully invaded England and established their rule which would mark the start of the transition from the germanic Anglo-Saxon language and culture to a more Norman French English culture. Iberia is in the midst of the reconquista which can decide the religious fate of the peninsula. The Eastern Roman Empire is facing an invasion by the Seljuk Turks who rule over Persia which can possibly mark the beginning of their long decline should the Turks succeed. Europe is about to find itself in the midst of the investiture crisis where rulers such as the Holy Roman Emperor will challenge how much power the Papacy actually has as many rulers will decide that secular rulers should be able to appoint bishops instead of the Pope. Meanwhile as the Muslims advance on the Christian Byzantines, and Eastern Orthodoxy expands into the western Eurasian Steppe with Kievan Rus, the Papacy will begin to feel especially threatened. This feeling could culminate by the end of the century into drastic matters to expand Catholicism's reach and influence by force even. Lastly France is finding itself in a rough position. King Philippe and his younger brother Hughes are the last of the Capet rulers, both being children. France is a powerful kingdom indeed but the Holy Roman Emperor to their east is vastly superior in strength and numbers. France could very well see its territory begin to shrink away over the course of the next several years from German invasions. And in the midst of all of this is a 34 year old Count looking to carve out his own place in what is becoming an increasingly chaotic time. 
+
+&#x200B;
+
+**Count Herbert of Vermandois**
+
+&#x200B;
+
+https://preview.redd.it/tkh83gu9x5351.png?width=609&format=png&auto=webp&v=enabled&s=f7841c58c0b42377ab96ed924fc474aa6d0c5a8b
+
+ 
+
+**1st of January, 1067**
+
+A big day for my family indeed. My brother Eudes married today in Florence. Duchess Matilda of Tuscany, 20 year old Italian woman, incredibly patient and hard working woman. She certainly takes her role as a ruler of one of the largest holdings in the Holy Roman Empire very seriously. Honestly, she is an ill fit for my brother. Always jealous of my privilege of being the first born, preferring to hide away from his duties and stuff his face with expensive roasts on my coin. Honestly to be rid of him all the way here is a blessing. Adele and I attended the wedding of course and gave the honorable Duchess a gift. Considering my family's lands are limited to a simple county in northern France, having a Karling rule over most of Italy will hopefully bring back some honor to our family name. 
+
+**11th of January, 1067**
+
+Apparently there has been a request delivered to me. A nun who has earned the name Melisende the Holy from Laon has earned quite the reputation as a healer caring for Lepers. Apparently the Leper Colony where she works as well as her convent has run into financial issues. The letter was asking for me to offer some coin in donation to the convent in exchange she had offered her services as a healer and practitioner of medicine to my court. Truly a remarkable woman based on the recommendation. I speak with my steward to make the arrangements. It’d be nice to have a court physician to look after me and my family.
+
+**23rd of January, 1067**
+
+There was an emergency meeting of the Regency Council called in Paris. It seems a declaration of war was sent to us by Holy Roman Emperor Heinrich IV as he planned to invade France to seize the county of Zeeland. Of course the council knew that this was more of a show of force against the Kingdom, an attempt to seize some glory. The council began making decisions on how to move the French armies in preparation for the war. The Emperor has access to a much larger army, though they are more spread out. If we raise our levies and mass them to attack then perhaps France can edge out a victory.
+
+**2nd of December, 1067**
+
+It seems the war is going ever poorly in the south. The French armies have been crushed and defeated by the Germans at every turn. As the chaos consumes the south it becomes apparent that King Philippe will turn 16 in a month, thus ending the regency. Most suspect my father-in-law Count Raoul of Amiens will be named Duke of Picardie for his efforts leading and commanding the armies during the war. If that is the case I will be made his vassal and lose my place on the Royal Council. Before I can let this happen I need to make a strike to carve out my own base of power. I’ve raised my levies and sent out letters to my allies the Dukes of Aquitaine and Burgundy to join me in a war against Duke Thibault of Champagne. Hopefully by right of conquest I can take a large section of his lands for myself. Of course waging such a war will certainly hurt my image across the Kingdom but it is necessary. 
+
+&#x200B;
+
+[The Lords of France c.1067](https://preview.redd.it/u7hb8thgx5351.png?width=623&format=png&auto=webp&v=enabled&s=99c1c828148c2c1c0caae6714dc0b3d1059fbdb7)
+
+&#x200B;
+
+**Duke Herbert of Picardie**
+
+https://preview.redd.it/rzu1htbkx5351.png?width=625&format=png&auto=webp&v=enabled&s=96b14b2cd4010011fc02d5813019a4f8b8d0eb54
+
+ 
+
+**30th of January, 1068**
+
+In a move that surprised even me, King Philippe, now an adult and legally king by all rights, decided to name me Duke of Picarde. Though my Father-in-Law does own more land he was recently captured after another failed battle in Provence. Philippe seemed furious with him and blamed him for the disastrous war based on the letter I received. Adele seemed hurt by the scornful words the King had for her father. But I was not one to turn down such an honor. Of course my prestigious lineage certainly helped with the decision. Either way I now have to hope my allies will pull through for me and help secure this war. I suspect there will be a serious issue with Adeles brother once he becomes count. Likely he will try and take the Duchy for himself in a sort of rebellion in the future. But for now I can’t worry about potential future enemies.
+
+**2nd of June, 1068**
+
+I watched from a nearby hill in Guise as my army returned with almost 4000 more men lent from my allies. The banners of Burgundy and Aquitaine flew with mine as they braved the ford of the river and made their way across to attack the armies of Champagne. We pushed hard though I watched as our right flank completely fell apart and collapsed yet our men rushed through. Bodies and blood filled the riverbank. We outnumbered them two to one, and though we may have lost more men they were routed. Unfortunately as the battle cleared I saw what was a monsterous cloud up ahead. The German armies marched across and abushing us. There was nowhere to run.
+
+**17th of July, 1068**
+
+I tried to flee with my family and my army however the Germans were everywhere. They ravaged my army and my allies. They crushed our forces, burned several homes and buildings until finally they cornered me with my guards. I surrendered myself as long as they allowed my family to go. It seems I’ve now fallen victim to this war with the Germans.
+
+**4th of August, 1068**
+
+Seems the war is over, King Philippe has lost and Zeeland was handed over. Of course I am still rotting in a prison awaiting for my ransom to be paid. I’m sure Adele is scurrying to get her hands on the money. What’s more with me in here, it is up to my commanders to win the war against Champagne. At least I needn’t fear any more German intervention.
+
+**27th of December, 1068**
+
+Spending Christmas in a damp freezing cold German dungeon. I shivered against the bed before rolling over and vomiting on the floor. My throat burned and ached as I felt sweat dripping off of me despite the cold. I knew I’d fallen ill, of course the guards refused to listen to me as I begged for a bucket. How undignified.
+
+**7th of June, 1069**
+
+Nice, lovely, I find myself curling with the flu feeling miserable as I’m constantly entering coughing fits barely able to stomach what little slop they offer me. A young man entered as I could barely make out his voice. He was meek and thin “E-excuse me. Erm. *Darf ich mit dem Herzog sprechen? Ich habe wichtige erm da neuigkeiten von seiner familie.*” he began speaking in what even I could tell was broken german. The guards allowed him to pass. “What did you say?” I asked in a nasally voice “I heard something about family?” “Uh yes sire. Your wife Duchess Adele and your brother Regent Pierre sent me to inform you that the ransom should be paid in about 8 to 9 months.” I instantly turned to him as I strained my voice as best I could muster “8 to 9 months? What the hell is wrong with you!” “Now now my liege. Please I can tell you need to reserve your strength. I also come bearing good news. It seems your army's erm defeated the Duke of Champagne. You are now the Count of Brie and Baron of Provins. So there is that at least.” I tossed my head back against the wall “I suppose that is good news. Thank you messenger. Please allow my family to properly compensate you.” “Ah thank you my liege.” he said, giving a bow as he backed out of the prison cell.
+
+**27th of June, 1069**
+
+Seems my family came through for me after all. Not long after that messenger left I was given another message that my ransom had been paid. Thank the lord almighty. I mounted a carriage to wheel me back home to Vermandois so I can see my wife and son again. It’ll be nice to be back home after spending half a year locked away.
+
+**1st of July, 1069**
+
+Having only just returned I’m already being thrusted with news of what has happened since my absence. It seems the King just recently called to raise levies for another war. This time he is launching a war against the infidel rulers of Mallorca. I’ve heard the Iberians to the south have been waging thier wars defending their lands against the infidel muhammadens. By taking Mallorca we will break their hold on Mediterranean trade and be able to aid our fellow Christians in their holy war. I recall the tales my father would tell of our ancestor who led the Battle of Tours stopping the infidels from invading the Kingdom of the Franks. I certainly gave my approval for the war, may God bless King Philippe and France. It seems he is shaping up to be a great King after all.
+
+**16th of July, 1069**
+
+A messenger arrived in the court today bursting into the room to give me some announcement just as the physician was placing the organs of a still twitching frog corpse over my chest. She promised me that it would help cure me of the flu which I contracted in that German prison. I looked over to the door as they swung open “Duke Herberrrrt, erm.” “By the Lord's name boy, do you not know how to knock? What is it?” I asked despite my throat being still raw and sore from dry heaving earlier. “Yes, well,I come bearing a message from his majesty King Philippe, it seems he wishes to appoint you onto his advisory council as the Royal Marshal.” “during a time of war? Joyous me. Well I’m a tad busy at the moment.” “So should I tell his majesty that you have declined his offer?” “No no, I accept. Just that he'll have to accept that I won’t be at my best.” “As you wish” he gave a bow as he left the room. “Now on with the treatment Melisende”
+
+**30th of July, 1069**
+
+Today was a momentous occasion. The journey to Paris in my sickly disposition has not been enjoyable though I managed to arrive at his majesty's castle where his coronation ceremony took place. It was a small celebration as I met with the other advisors, and the ceremony was brief. The Bishop crowned him King of France as all joined in a polite applause.
+
+**28th of February, 1070**
+
+I’m finally starting to feel like myself again. Full strength, able to actively partake in governance and more importantly be able to uphold my family. Adele has been working to create a more secure spy network here to protect against any intrigue. I’ve made plenty of enemies after all. What’s more is Adele announced that she is pregnant with our child. It’s been 8 years since our daughter was born and honestly I’d forgotten the nerves of pregnancy. After all it is such a dangerous and vulnerable time for her.
+
+**20th of March, 1070**
+
+Seems that Englands been dragged into another war. Duke William of Normandy, who became King of England a little over 3 years ago, decided to declare a war against his rightful liege, King Philippe. Apparently William and Philippe disagreed over the management of the County of Vexin. My Father-in-Law, Raoul, was the rightful count but he is my vassal. Philippe agreed with me, yet William wants to bring his armies down to France anyways. Just because he was King of England he believes he can do as he pleases like a spoiled child.
+
+**6th of September, 1070**
+
+Today was the day. I rushed down as soon as I heard through the halls until I heard the screams. As I approached the door I stood outside impatiently for what felt like eternity before finally one of the midwives came out of the room after I had heard some crying from inside “Master, the Duchess is ready to let you in” as I came into the room there Adele laid holding our baby. As I approached I looked over running a finger along its cheek. “It is a girl.” I smiled “How does Marguerite sound?” “It sounds beautiful,” Adele replied “Marguerite.”
+
+**23rd of April, 1072**
+
+“I take back every kind word I’d given about that boy, he is a coward!” I shouted “Sire…” the messenger meekly spoke up “We are talking about our King.” “Yes yes, a cowardly King too incapable of fending off a few dozen infidels on some islands, and a King who thinks his glory beyond our borders is worth more than his own people!” “Yes sire…” he agreed quietly “I mean, those English bastards just ravaged my countryside, attacked my people! He is supposed to protect me and my lands, yet he prances about never putting up a fight and surrenders MY land to that Norman barbarian?!” “I have no idea why he’d do such a thing, sire…” “Paris is burning as Mahomedans ravage the land, pillaging and raping French subjects. Coward! Coward I say!” “Well sire why didn’t you raise your levies to..” I turned to him and my glare must have made him fear the face of god as I’d never seen a grown man gulp and shiver like that. I approached slowly holding out my finger as I explained the simplicity of this premise to him “At best I can muster maybe what? Two thousand men? More likely less. The English have five! It’d be a slaughter! No. William is his subject, England is a foreign crown. It is the Kings job to protect his lands and his people from foreign enemies. But clearly he cannot even do that.” I shook my head trembling in anger. “Anyways, I’m sorry. What did you come in here for?” The servant was still trembling though he was more afraid, maybe thought I was to order his hanging at any moment. “Er would you like pressed duck or roasted pork tonight sire…” “Oh I’ll have roasted pork if you would.” “Right away sire..” he said as he scrambled out of the room.
+
+**28th of June, 1072**
+
+After weeks of fever and general fatigue my court physician has diagnosed me with having the Great Pox. Wherever I contracted such a filth I’ve no idea though these lesions that have formed strike fear right into my soul. She’s recommended a treatment of bloodletting to help my humors balance. “This disease will plague you for the rest of your life. Though by balancing your humors we can perhaps make the symptoms more tolerable.” “Do as you must”.
+
+**11th of May, 1073**
+
+I swear I saw them, the shadows speaking to me. I am starting to hear voices. I think that my castle is haunted. I remember hearing a tale about an old lord in this castle who fell down the stairs running after his grandchildren. I remember now, it was a raspy voice, hollow inside. No what am I saying, there is no such thing as spirits. It must be the whispers of my enemies, plotting to blow me into the sky with manure or conjuring a comet to strike my bed in my sleep. I’ll show them. I’ll see their plots a league ahead of time. Leagues are a measure of distance not time. Silly me.
+
+**6th of August, 1073**
+
+I was hiding in the bedroom, I didn’t want to be seen. That's when I saw her sleeping there, oh my sweet Adele. As I approached though I saw it. The shadows had gotten to her. She was in the bed blood pooled in her pillow and around her lips. She was so pale, so cold. I wanted to be closer with her. I kissed her blood soaked lips, they were so cold. “I’m sorry my sweet Adele. I didn’t protect you. The shadows caught you. My dear, my love.” I could barely make it all out as my tears dripped onto her flesh. To be taken so young.
+
+**15th of April, 1074**
+
+Some Occitan named Gui has gathered up an army down south. Has quite a bit of support from the local populations. Wants to ‘liberate’ the Kingdom of Aquitaine. Such chaos, I bet King Philippe will fail in defeating this uprising. If France loses Aquitaine, the Kingdom will fall apart. I miss Adele. I wish I lived in brighter days. King Philippe has brought his armies back from Mallorca but the war isn’t over. France is so weak and divided. Truly this is the end of a great people. 
+
+ 
+
+**10th of February, 1075**
+
+I was told by my brother that I should remarry. I can’t ‘be upset and hung up on it forever’. Apparently producing more children is of the utmost importance to the realm. He found this Iberian woman, a daughter of a count I think he said. Her name was Dordia and her family was wealthy enough they offered a dowry to help pay for several new buildings and guild halls in Guise. I couldn’t refuse, and I mean it. Today she arrived and we had our wedding. She was beautiful, a bit promiscuous throughout our meeting. I don’t dislike her, though I can’t help but miss my Adele. 
+
+&#x200B;
+
+https://preview.redd.it/pbzduwu1y5351.png?width=624&format=png&auto=webp&v=enabled&s=67083effbb4b0d56ae082062b1a9e8bad8dd0d81
+
+ 
+
+**9th of January, 1076**
+
+My boy Eudes is really growing up. Today is the day of his wedding to Aines de Poitou, the daughter of the Duke of Aquitaine. An important alliance to be sure, her father is probably the single most powerful man in France aside from the King. The ceremony was beautiful as I sat next to my wife Dordia, who was showing her belly from pregnancy. I wish Adele could have been here to see our son wed his wife. But alas, this is how it is. I feel more alone now than ever.
+
+**22nd of May, 1076**
+
+It’s been easier to throw myself into my work. King Philippe appointed me as his new Chancellor. After Adele's death I resigned as his Royal Marshal but now I am ready for court work and politics. Though it seems Philippe has earned the ire of many others. His failures with Mallorca and the growing rebellion in Aquitaine has left most French nobility dissatisfied with the King. He’s even managed to offend his holiness, Pope Alexander II who excommunicated King Philippe a few years ago. I returned today to Vermandois as Dordia should be giving birth any time now. Though when I arrived I found a letter had arrived a few days prior bearing the Papal Seal. As I sat in my study opening the letter reading it over I realized it was directly signed by Pope Alexander II himself. In it he spoke of the sinfulness of King Philippe and his failures in fighting the Muslims and defending his lands. He specifically recounted my lineage “You are the sole male heir of Charlemagne, as such you are the rightful King of France.” he gave me his blessing and promised to back my ‘divine right’ to rule this Kingdom. I collapsed into my seat, this was an important decision. Do I betray Philippe? Conspire with the French nobility to overthrow him? If I have the Popes backing my right is just. Of course should I fail, then this will horribly backfire. I will accept the Popes offer though I will keep this secret. I will draft him a letter accepting his offer and go from there. Perhaps I should resign as his chancellor?
+
+**24th of June, 1076**
+
+I’ve officially resigned as Chancellor and begun gathering support among the French nobility for my claim to the throne. I need some major funds if I want to be able to support a war but luckily these failed wars of Philippes have worn his army down. Today though, no more plots, no more politics, only joy as I entered the room to see Dordia holding my second son. We named him Louis as I held my son. Eudes would now have a younger brother. Seeing this son only cemented my resolve. I want to give him a good inheritance, this throne is not just for me but for my sons, my heirs.
+
+**2nd of August, 1076**
+
+My resolve has been steeled, I have arranged marriages and alliances with both the Holy Roman Emperor Heinrich IV and King Sancho II of Castille. With the Pope granting me divine right, their political support, plus the support of what nobility are willing to back me I am ready to draft my ultimatum. Unfortunately, multiple other members of the French nobility have decided to put their own candidates for the throne. Philippe has become universally despised, his being deposed is only a matter of when not if. I sat at my desk and wrote the ultimatum. *“My Liege, King Philippe Capet of France, With the blessings of Pope Alexander II, the support of the most powerful lords of Europe, and even your own nobility I humbly request your abdication. King Philippe, I have been your most loyal and obedient servant for many years. When all others lost their faith or had their doubts I had been a staunch defender. I know you think highly of me, not just for my lineage but for the care I have for this Kingdom and your subjects. This is not of ill will towards you but for the future of the French Kingdom. If you remain, others will violently depose you or worse make attempts on your life. You have many enemies, and I wish to remain your ally and friend. Abdicate, resign the throne to me by the grace of God. And should you do so honorably, allow a peaceful transfer of power then perhaps this Kingdom can return to a track of progress and prosperity. Your Obedient Servant, Herbert Karling”* And with that I hand the scroll with my seal to the messenger and send him to Paris. At the same time I raise my levies, ready for war. Even if he surrenders which I doubt, I will need to be ready to fight these wars Philippe has begun.
+
+**8th of August, 1076**
+
+When the messenger arrived I was overseeing a military camp as my levies gathered. I already knew the response before I undid the seal. *“Dear Duke Herbert Karling of Picarde, I am insulted and betrayed. When I was surrounded by enemies you were the one I relied on. I made you what you are. You cling to your* ***lineage*** *so much yet you’ve never earned a thing for yourself. I made you Duke, I made you Marshal and I allowed you to resign when your wife had passed, God rest her soul. When you asked to return I made you Chancellor because I trusted you. You were the only one I could trust. Clearly I am  a failure as a King as you said. For I had sourly misjudged your character. I will not make that error again. You will never be King. The Rightful King of France, Philippe Capet.”* War it is. I will send word to King Sancho II to join me. 
+
+&#x200B;
+
+[The Karling Rebellion c.1076](https://preview.redd.it/7lbujjq7y5351.png?width=345&format=png&auto=webp&v=enabled&s=defd981b39d0f0aa01dbef5b5fcdf7845e900735)
+
+   
+
+
+**7th of December, 1076**
+
+My armies have gathered and we march southwest to hopefully meet with the Castillians. I am aware that King Philippe and the majority of his forces were located int he same direction, I wouldn’t be surprised if they enter battle before we even get there. Hopefully the greater Castillian army can overwhelm Philippe and force him into a retreat. The boy is a capable warrior and commander, he is just a terrible strategist. Once he is on his back heel he won’t know what to do, then I will be able to play with him like a cat with a mouse just before devouring him.
+
+**26th of January, 1077**
+
+We encountered the French army in Bassac with their allies of Barcelona. Seems Philippe abandoned what was left of his forces. A messenger from Sancho informed me that they had killed somewhere over a thousand of his men, another 100 died as we crashed down on them. They are battered and weak. We will leave them and march north to Paris. Once the capital is mine, it won’t take much more to assert my right as King.
+
+**3rd of August, 1077**
+
+I was sitting in my tent receiving treatment for my Great Pox. Melisende was applying leeches when one of my commanders, Jaufre, entered “My liege, the city of Paris has fallen.” I smiled as another leech attached to my forearm. “Excellent. Get the men ready to pack up and move on. Leave a small garrison. We will have the entire county in our grip by the end of the year. Once the County is ours, France will fall. Pope Alexander was right, I truly do have Gods blessing.” I smiled laying back down as the leeches were now applied to my cheeks and forehead. 
+
+&#x200B;
+
+[The Siege of Paris c. 1077](https://preview.redd.it/a8jqo77dy5351.png?width=632&format=png&auto=webp&v=enabled&s=5ca4ed9aa56b9e72a35c9bcddcd435d8a987ed96)
+
+ 
+
+**12th of December, 1078**
+
+Philippe is stubborn, that is what I have learned. All of Paris and Senlis have fallen, I march to Orleans and yet he refuses to surrender. What's more it seems my rebellion has finally convinced him to end his foolish war with Mallorca and he even managed to put down the revolt in Aquitaine. Who knew all it took was a civil war for Philippe to become a competent King. Either way I am grateful to him, whether I win this war or not, Aquitaine will remain firmly within France. Duke Ramon-Bereguer of Barcelona has raised an army of 2000 men to try and help his ally remain in power. My scouts have come to me saying that he is taking his army to Sens. We can get to him first, and crush his forces. Any shred of hope Philippe has must be sliced apart.
+
+**18th of January, 1079**
+
+We’ve chased the Catalans to Cosne where we’ve engaged with them. My scouts underestimated their size, they easily reached somewhere around 3000 men. Nonetheless, my commanders are skilled men of great renown. I have full faith in their abilities and in the Castilian forces alongside us.
+
+**9th of December, 1079**
+
+The siege of Orleans was over, as we traveled north to Paris we met the last of the French forces as we crushed them in Sens Philippe was brought to the camp hands bound. It was now that he knew the war was over. His ally has abandoned him, God has chosen his victor. “You are a filthy traitor.” Philippe cursed to me as I sighed “When you were still a boy, I had so much hope in you. You were like a second son to me Philippe. But you’ve failed time and time again. It’s time son.” “Don’t call me son” “It’s time for you to abdicate, it’s what is best for you and for this Kingdom.” He looked disgusted with me “You shouldn’t pretend like this is for the Kingdom, or for me. You’re a traitor, hungry for power and you only care about yourself. Usurper, that’s how they will remember you.” I took off Philippes crown and nodded “Well let’s see what the people in Paris have to say.” 
+
+&#x200B;
+
+https://preview.redd.it/vq2mm2why5351.png?width=624&format=png&auto=webp&v=enabled&s=2b643f273d0ef03695eb749b87ef65b32a315b3c
+
+This was really good! I'm hope you continue and write more of these
+
+R5: This is the first entry into my first complete AAR. Encompassing the entirety of Crusader Kings II from 1066 (the William the Conqueror start date) all the way to November 11th, 1444. As you might guess from the end date this is part of a greater mega-campaign as France. In Crusader Kings we start off with Herbert Karling, the Count of Vermandois and one of the three last direct male heirs of Charlemagne. Throughout the campaign the Karlings will once again rise to power in France which has fallen on hard times under the rule of the Capetian Kings. With luck and skill these Karlings will try to channel the divine right to rule granted to them by their Carolingian blood and bring France to the forefront of European political affairs. I hope you guys will enjoy reading these and any and all feedback is appreciated!
+
+[Part 2](https://www.reddit.com/r/CrusaderKings/comments/gxzw9m/bloodlines_the_legacy_of_charlemagne_part_2/)
+
+Nice
+

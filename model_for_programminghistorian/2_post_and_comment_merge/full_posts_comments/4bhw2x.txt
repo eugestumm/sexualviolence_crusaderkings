@@ -1,0 +1,27 @@
+Paying a fine because I (allegedly) raped the daughter of my LIege.
+
+Hi there,
+
+I was playing my ironman game and had about 2000 gold accumulated. All of the sudden I got an event which said: "Another vassal of my liege is accusing me of raping the daughter of my liege". First of all I have never seen this event before. Secondly I had to pay the exact amount of coins I had in my coffers. Which is weird because it didn't go to my king. Thirdly I did seduce the Queen (my liege's wife) but that doesn't count as rape AFAIK. 
+
+
+Is this a new event? What makes it trigger? How can I avoid it?
+
+This chain starts with event 75110 in `job_flavor_events.txt`. It can fire for lustful marshals (who are landed). There's a similar one for greedy stewards (when Conclave is disabled).
+
+Both chains can end with the `clear_wealth` command. In previous versions they transferred 100% of wealth to the liege, which was quite exploitable. Not sure when they changed to destroying the wealth instead.
+
+To avoid it, don't be a lustful marshal. Or give your cash to another character, such as your heir or a lowborn prisoner, so the clear_wealth doesn't hurt so much.
+
+'#crusaderproblems' '#firstnight'
+
+>Thirdly I did seduce the Queen (my liege's wife) but that doesn't count as rape AFAIK
+
+Guilty as charged. Find who took the gold, intrigue spy on him and try to arrest him, then banish him. Only solution I can think of. I think fucking your liege's wife **triggered** your liege.
+
+I want to encounter this event now/soon.
+
+this is just genius.
+i srsly thought here and there that pdox might have joined third wave feminism bullshit,but when i see such an event it scatters these worries.
+a wonderful event that makes fun of todays guilty until proven innocent mentality when its about rape accusations
+

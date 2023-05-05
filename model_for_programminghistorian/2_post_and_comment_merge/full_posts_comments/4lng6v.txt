@@ -1,0 +1,15 @@
+Regarding shattered world, how can I speed up other characters to do better regarding expansion?
+
+It's ritualistic for me to give my character 90+ skill set and other useful things (character designer unlocked). I expand really fast, I'll have an empire the size of Holy Rome by the time I'm 45. Problem is, is that when I reach kingdom tier the game gets really easy. Usually I'll fabricate a claim on some far away county, send all my troops there and take it, then form another kingdom, and finally give it to some courtier to rule independantly. I've had a lot of fun with that, but I'd like some rivals who form naturally.
+
+Usually I use cheats, but I find giving someone 90+ stats doesn't always work because they'd rather just stay doing what they're doing. Then I go on to traits, and ambitious doesn't always work.
+
+What traits should I give to ensure they rape their neighbors with an unholy amount of troops and subjugate lesser peoples? I'll also be giving them 2 extra counties to start with to give them that edge they need, so theres that too.
+
+I'm not sure how well it will work, but you could console jump into a few different characters and give them event troops via console commands. The following are from http://crusaderkings-two.wikia.com/wiki/Cheats
+
+Free Troops (the old god) = event 62320
+Free troops + Hero (the old god) = event 62321 
+
+Alternatively you could just play as another character once your original character dies and build up rival kingdoms that way.
+

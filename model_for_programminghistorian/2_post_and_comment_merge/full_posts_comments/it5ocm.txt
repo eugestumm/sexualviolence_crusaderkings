@@ -1,0 +1,15 @@
+War/battle tips
+
+Give me some battle tips.
+I just got btfo in huge battles.
+Both times they had "defenders advantage" which raped me.
+Do I just never attack them?
+
+It's combination of size of your forces, their quality, type and amount of men at arms and knights, how your men at arms counter enemy men at arms or are themselves countered, martial skill of the commander, his traits and terrain. Plus sometimes local buildings if battle is on the territory of your enemy or your territory and there are such buildings present.
+
+As to the question of the battle you had, you can attack enemy in terrain that gives him advantage, but you need to compensate for it by some other factors. When you click your army to move in to enemy army, or when enemy army is moving in to your army, there will be small icon shown and tooltip will give you approximate chance of victory or defeat and rundown of all factors involved that give advantage either to you or your opponent. In case of your army this works over distance too, you don't have to stand right next to the enemy.
+
+Also remember, if the battle happens at the location of a fort, defensive advantage goes to the side that holds that fort at the time (either owns it or have sieged it already).
+
+AI will search defensive terrain when it sees that you are stronger. So you need to outsmart it. You don't need to defeat AI in battle to win the war. You need to siege down enemy holdings. So if you are stronger side, but not enough to overcome what ever defensive advantage enemy might have, just go and siege down his holdings while preventing him from sieging yours. This is bye the way why siege engine men at arms are one of the most powerful men at arms regiments in the game, even if they do nothing in battles.
+

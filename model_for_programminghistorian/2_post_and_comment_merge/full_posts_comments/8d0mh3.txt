@@ -1,0 +1,31 @@
+Need help making my culture better than other cultures
+
+As the title says, I need help converting my realm to my culture 
+
+I've tried everything from genocide to mass rape (even both of them at the same time) but I never seem to make an impact, so does culture just randomly disappear over the years or can I actually help it disappear?
+
+Tribals have a settle tribe option (a stewards mission) to spread culture. Otherwise you just have to wait.
+
+if you have reapers due, it is tied partially to prosperity and crown focus. 
+https://ck2.paradoxwikis.com/Prosperity
+>A crown focus province that already has a high prosperity level is eligible for special events. These events are more frequent with high stewardship and learning skills.
+
+>At prosperity level 2, a province with a different culture can be converted at the cost 100% of your yearly income. It also converts the province's religion and removes the nomad agitation modifier, if relevant.  
+  
+
+Convert your vassals to your culture and they might use crown focus to change as well. Also since culture normally spreads from bordering counties target your counties with the most counties bordering it with crown focus first.  
+
+
+Last time someone tried that it led to WW2
+
+There is a MTTH for county culture conversion. You should:
+
+- give one county each (so no count has more than one title)
+- try and make sure each count has a high stewardship value
+
+The culture flip is tied to each count individually which is why you don't want more than one country per person and the higher their stewardship the less time it takes. 
+
+If you have Reaper's Due dlc then a country being depopulated also decreases the MTTH. It's mainly a waiting game. I'm about 150 years into a Britannia campaign and Ireland, Wales and Scotland have started to turn Anglo Saxon.
+
+Only give titles to vassals of your culture, they will occasionally convert but that shouldn't happen too often
+

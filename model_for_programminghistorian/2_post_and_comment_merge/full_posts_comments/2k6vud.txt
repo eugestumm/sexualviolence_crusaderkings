@@ -1,0 +1,30 @@
+My Marshal is demanding to be imprisoned for raping his newborn daughter... who apparently could be lying
+
+
+
+Hmmm, I wonder if this event is meant to portray the rape of Florinda, daughter of [count Julian of Cueta](http://en.wikipedia.org/wiki/Julian,_Count_of_Ceuta).
+
+The story goes, he was a spanish/visigoth count who led the visigoth armies in holding back the muslim advance across north Africa. he was supposedly a kickass general who defeated the muslims at every turn. That is, until he sent his daughter to the visigoth king Roderick's court for safety, only to later discover she had become pregnant with his child.
+
+She claimed she was raped by him whilst bathing, something muslim chroniclers of course agree with. Spanish chroniclers claim she was a temptress who seduced Roderick. Either way, count Julian believed his daughter and rage-quitted. 
+
+And by ragequit, I mean he surrendered his army and fleet to the muslims, and offered to lead the muslim invasion of spain in his own ships as revenge against Roderick. He succeeded and the muslims ruled Spain for the next 800 years or so. He was granted a fiefdom by the grateful muslims, but died a broken man consumed with regret at betraying his people.
+
+At least, so the legend goes.
+
+Regretful Zoroastrian.
+
+Looked through the event files trying to find the buggy code, then I realized that it doesn't reference any actual daughter. The marshal's portrait is in the notification because he's the one accused.
+
+In other words, he did not rape his own newborn daughter.
+
+She was asking for it with those slutty diapers. 
+
+Check the relationships tab to see if some event shenanigans made the newborn his lover.
+
+DIVINE BLOOD
+
+How do you even get events like this?  Is it a mod/dlc/ethnic exclusive?
+
+Yep... That's CK for ya.
+

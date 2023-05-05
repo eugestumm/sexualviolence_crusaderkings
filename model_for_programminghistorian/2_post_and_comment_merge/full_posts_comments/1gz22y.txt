@@ -1,0 +1,45 @@
+Some tips and random thoughts for a Rurik ToG start and non-Norse pagans in general (long)
+
+So, I just “finished” my first ToG playthrough, starting as Rurik in 867AD. Finished, as in, did everything I wanted to do, which was to create the Russian Empire, turn my dynasty Slavic and Russian, reform the faith, spread my seed far and wide – the usual stuff.
+
+So, for anyone who doesn’t know, Rurik starts off with godly stats, is really kind of a badass, and is culturally and religiously Norse, whereas his unlanded son starts off with so-so stats and is culturally Norse, but is already converted to the new homeland’s Slavic faith.  
+
+**So, there’s two ways to go** – keep your dynasty pure Norse and enjoy all of the ToG Norse-specific mechanics, or do what the game suggests and embrace Mother Russia, convert your dynasty to be Russian and Slavic and enjoy the plump women and the pickles.
+
+I went the latter route and I gotta say the loss of Norse-specific extras is a little painful. All the flavor events are gone, which is a shame, but the inability to use rivers is the thing that causes the most serious pain considering how vast and slow to traverse Mother Russia is. You also lose out on the blot and the rune stone, and only have access to the jarilo festival, which is still pretty powerful  since it gives you 100 piety and +15 opinion across the board. Mind you, until you’re not totally culturally/religiously pure, triggering jarilo will result in all your non-Slavs refusing to attend, which gives an opinion penalty instead of a bonus.
+
+**The most useful trick** by far for making the best of the 30 or so years you’re going to have as a Norse ruler (and the rest as a Slavic pagan) is to conquer Narva and turn it into a vassal Republic. Rurik, unlike the other starting Norse characters, gets no access to boats – I mean none whatsoever – and getting boats through tech + buildings is a long-term undertaking. By turning Narva into a vassal Republic, you get instant access to a decent stack of boats you can use to load up a bunch of raiders and do some serious raping, looting and pillaging.
+
+You start off with the ‘become king of Rus’ ambition, which means you can use the Subjugation CB as much as you want and you should  be able to create the Kingdom of Rus within a few years. The Conquest CB will allow you to pick up a whole lot of random counties in de-jure Ruthenia, which is the other kingdom title you’ll need to create your empire down the road. The duchy you start off with has 6 counties – of which you own two and can plot to revoke the rest, so that’s a pretty overpowered starting condition as well.
+
+Parking your spy down in Muslim lands and everyone else but your chancellor in your capital will let you catch up with tech and since Rurik starts off with off-the-chart stats, you’ll be accumulating quite a few tech points. Within 60 years, I had Legalism and Military Organization at 4. And remember, if you decide to reform the faith and still have some unreformed pagan lands to conquer, you’re going to have to deal with pagan attrition unless you get your Military Organization to 4.
+
+**The biggest problem** by far is that playing pagan you have some serious limitations as to who you can marry. The ‘will not marry an infidel’ penalty is pretty ridiculous and will hopefully be tweaked in a later patch. I managed a decent marriage for my son just once in the entire 90 year playthrough – to the Queen of Pommerania, who was the only high-ranking Slav left on the map. Once my realm expanded to include all the Slavic counties on the map, I could literally find no one to marry other than people in my own realm, and since I seriously overspread my dynasty (90+ living members), I was pretty much marrying within the family like a stinking Zoroastrian.
+
+**By far the most fun thing** to happen in this playthrough (other than Tengri Carpathia becoming bigger than the HRE and the Byzantines combined are in a normal 1066 start) was a stray kinsman of mine – a proper Rurikovich who just happened to be Norse/Norse – triggering a prepared invasion on Sarkel, marching across Russia with his 17K doomstack, conquering Sarkel, then Cumania and in the process marrying a Slavic woman and converting to the Slavic faith. So, in the end, I ended up with this huge buffer zone to the south that is controlled by a member of my dynasty and of my own faith. Sometimes it’s a boatload of fun  watching the AI do its thing.
+
+**tl;dr** – It’s a fun and easy start, but going Russian/Slavic deprives you of a lot of flavor events and Norse-specific game mechanics, the ‘will not marry an infidel’ penalty is pretty ridiculous, be careful when reforming your faith and make sure you can get your Military Organization to level 4 to avoid pagan attrition, make sure to create a vassal Republic so you can have access to boats.
+
+
+If they're other pagans, take concubine, set aside concubine, force them to marry whomever you want.
+
+How on earth do you get level 4 tech within 60 years? That sounds absurd.
+
+>By far the most fun thing to happen in this playthrough (other than Tengri Carpathia becoming bigger than the HRE and the Byzantines combined are in a normal 1066 start) was a stray kinsman of mine – a proper Rurikovich who just happened to be Norse/Norse – triggering a prepared invasion on Sarkel, marching across Russia with his 17K doomstack, conquering Sarkel, then Cumania and in the process marrying a Slavic woman and converting to the Slavic faith. So, in the end, I ended up with this huge buffer zone to the south that is controlled by a member of my dynasty and of my own faith. Sometimes it’s a boatload of fun watching the AI do its thing.
+
+This is a problem for all the pagans.  None of the norse households seem to have a lot of women hanging around.  I've found myself introducing debutantes (which is a funny way to describe a viking lady honestly) for the first time.  Fortunately it's pretty cheap when you're a small viking lord.
+
+>By far the most fun thing to happen in this playthrough (other than Tengri Carpathia becoming bigger than the HRE and the Byzantines combined are in a normal 1066 start) was a stray kinsman of mine – a proper Rurikovich who just happened to be Norse/Norse – triggering a prepared invasion on Sarkel, marching across Russia with his 17K doomstack, conquering Sarkel, then Cumania and in the process marrying a Slavic woman and converting to the Slavic faith. So, in the end, I ended up with this huge buffer zone to the south that is controlled by a member of my dynasty and of my own faith. Sometimes it’s a boatload of fun watching the AI do its thing.
+
+I love the new invasion mechanic.  I even had one of my brother's invade me, and it was awesome fun.  His force was about the same as mine so I thought it was a fair fight.  Way more fun than mongols.  I also love the new peasant and liberator revolts! Such a good expansion.
+
+One thing you haven't mentioned is that anytime you're not warring, you should be raiding!  Pick a neighbor and keep everything he owns pillaged.  Then when you're ready, snag one of his counties, and then go back to pillaging.  As long as he's weaker than you, he'll never even engage your main stack, and you can just wander around obliterating him and keeping him weak.  Not to mention enriching yourself with gold and prestige, and stealing all his women.
+
+I just tried this start last week, and I found it really hard.
+
+You do start fairly large, and Rurik has good stats, but I found that as I expanded and gained more vassals, it became really hard to manage them.
+
+Being stuck in low crown authority with gavelkind, and being Norse when most of your vassals are Slavic meant that my first succession crisis tore me apart.  My vassals hated my new ruler so much that they just started revolting constantly and then the neighboring dukes/counts piled on and declared subjugation wars against me.
+
+What am I doing wrong?  I never really had enough money to send assassins after my kids so I only had one son as an heir, and despite bribing my vassals, there were always a few who hated me and just constantly revolted.  I never had these problems be so difficult with Christian rulers.
+

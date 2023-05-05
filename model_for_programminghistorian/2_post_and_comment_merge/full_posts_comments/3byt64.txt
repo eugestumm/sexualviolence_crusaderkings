@@ -1,0 +1,24 @@
+TIP: How to adopt feodalism or make a republic without reformation.
+
+So, yeah, this is kinda easy and somewhat obvious, but I had a conversation with two of my friends who play CK2, and this was new for them, so this may be interesting for anybody else, especially for the new players.
+
+The easiest way to change your government type fast and easy is to conquest some holdings with desired type and move your capital there. But what if you are a slavic warlord who want to start a merchant republic? It's a long walk to Venice...
+
+Lets say you want to start an Icelandic merchant republic right now and don't want to fight for the control of holy sites?
+
+1. You need a properly developed holding and maximum tribal organization, so rape and pillage, pass laws and upgrade.
+2. You need a big pile of piety (around 1500), so... rape and pillage, sacrifice, build zeal.
+3. Get yourself a christian or muslim concubine. You guessed it! Rape and pillage!
+4. Be sure that your capital have the religion you want to have after the conversion, that it is properly developed and that you have enough piety and right concubine.
+5. Make a decision to convert to you concubines religion and change your government type. At this point, if you want to play as Wali-Emir of the republic of Iceland, you can skip the 6 and 7.
+6. Now take the decision to conver to the religion of your capital(this will consume most of the piety you need). Voila! You now have a merchant republic of Iceland withold north faith(with pagan attrition ans subjugation).
+7. Rape, pillage, build trade posts for Odin!
+8. ...?
+9. PROFIT
+
+Wait, do you need to reform to go feudal?
+
+For the record, it isn't possible to change from tribal government by changing capitals (willingly, the tooltip will mention wrong government type). You can still go from tribal to feudal by having a feudal county and losing all the tribal holdings in your demesne through war and such. This method doesn't work for changing to a republic though.
+
+You can always convert to Christianity.
+

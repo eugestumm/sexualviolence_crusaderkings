@@ -1,0 +1,32 @@
+So confused, need clarification.
+
+I decided to play the Doux of Antioch (1066 start) because I thought the Middle East would be fun (ha ha nope). After a holy war for the county directly south and a lucky holy war against Aleppo (was rebelling) I was almost about to form the greek orthodox Kingdom of Syria (this is what we in the literary community call foreshadowing). Alas, it was not to be. The Egyptians decided that the Kingdom of Syria would be a fantastic addition to Shiism and promptly invaded. After getting my (and the entirety of Byzantium's) ass handed to me, I was all set to see my first "You Lose" screen (at least, my first in 500+ hours of practice) and was already thinking of playing Aragon, or possibly Barcelona. Through an act of divine will (or devilry) I was spared death at the cost of merely my single duchy, leaving me quite secure with several counties under my control. I was placed under the governance of a foreign emir and to prevent my head becoming disconnected from my general being, I became an Egyptian (I could not become a Shia Muslim as I do not have that expansion). I got sick of having an inferior as a master and declared independence...from my Emir (I'm not a moron). That was easy enough, and I usurped the Emirate of Aleppo (being conquered was rather distracting, so they were able to sneak off). I'm feeling quite pleased with myself; besides the minor upheavals, I was stable, decently sized, and looking to grow, especially under my sons, who were to be Muslims unlike myself (apparently, you can't inherit without the expansion although that would prove irrelevant). I was pretty cozy with the Sultan; he was married to my half-sister and he was raising my kids, unfortunately, this did nothing to stop him from revoking one of my counties. No big deal, he'd done it once before, and I still had the duchy so I'm fairly okay. And then he revoked another...and another...each time, the pop-up mocked me with it's ultimatum of death or dishonor, each time I was forced to soil my ancient name, and it was after he had revoked all of my non-capital counties that I despaired. And then he revoked my barony, within the capital at Aleppo. And then he revoked my capital, leaving me without holdings, and in the eyes of history, extinguished. 
+
+Questions: 
+1. How the fuck did I survive the initial Jihad?
+2. Why did he continue revoking my titles? (I noticed it was a gold revocation notification so i assume it was a plot).
+3. I've left the auto saves and might consider re-trying from a previous save (or starting over from 1066); how do I avoid all of this shit/not get raped by the cruelty of the desert?
+
+**TL;DR Fuck your shite prick Fatmid scum!**
+
+1. I'm pretty sure that Jihads (like crusades) are for kingdoms, so if Syria was your only kingdom it is possible that you were forced into vassalage (though I thought that the attacker wins all counties in the target kingdom/duchy)
+
+2. In all my games as a Fatimid vassal I've noticed that the Sultan will just keep revoking titles, he's powerful enough to crush any revolts.
+
+3. Abuse powerful alliances? Holy war every weak Muslim? Pray to the goddess of luck? Seriously though Muslims in CK2 are the most pendulum AI I've ever seen, I've had games where the only surviving Muslims are in the Middle East, some games (like my current Brittany game) where the Muslims win the reconquista and push into France. Just strike hard and fast at any sign of weakness. Oh, and when the Catholics call a crusade, wait a little while (long enough for the crusaders to jump into the meat grinder) and declare a holy war of your own.
+
+1. Was it an official Jihad? If so, I'm not really sure... but if it was an Invasion casus belli, then it will vassalize all rulers not in areas directly occupied by the invading force. That would leave you in charge of any titles that they weren't physically occupying.
+
+2. You weren't a Muslim, and as long as the Egyptians have (I think) Medium Crown Authority, they can revoke as many titles as they want from non-Muslims at no penalty. It might even be non-Shia, which would explain why other lords had titles revoked with no long-term effect for the Sultan.
+
+3. Hang on until the big Muslim powers break apart. For me, it usually isn't too long before the Seljuks collapse into civil war. Given enough time, the Byzantines will regain strength and the Fatimids and Seljuks will in all probability leave you alone. Then just take advantage of the chaos that occurs around you as the Muslim powers deal with succession. 
+
+You were probably vitcim to a Fatimid Invasion of Syria, rather than an actual Jihad (easily distinguishable by not having the big announcement Jihads get.) The Caliph kind of prefers those, as he can only Jihad once per lifetime and Invasions allow to do what he's done to you.  
+Muslim Invasions simply vassalize all titles lower than the invading party, so you were lucky -after a fashion- for not having formed Syria, as this would've made you unlanded instantly.  
+
+Since you're not a Muslim, the Caliph can -and will- Revoke all your titles without any opinion penalty, as you are a filthy Orthodox. Just like you could revoke any title from an Orthodox heretic or other Infidel without vassal objections.  
+This is why Invasion is more useful to the Caliph as he can revoke everything and hand brand new counties without recently conquered penalties out to all his landless sons.  
+Sunnis do have the option to Convert to their new liege's religion after an Invasion for 500 Piety, not sure if it's possible for Christians though.  
+
+Get Sword of Islam, play as a Muslim, like the area is meant to be played. Dismantling the Caliphate from the inside is fun! 
+

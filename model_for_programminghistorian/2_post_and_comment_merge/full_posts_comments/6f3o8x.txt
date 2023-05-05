@@ -1,0 +1,20 @@
+Small rant about religious conversion and heresies
+
+So, I'm currently playing as Germanic. I've reformed my religion and stay between 95-100 moral authority. However, Old Germanic keeps popping up due to secret religious societies, although they never get above 3 moral authority. And by "popping up", I mean that 1/6-1/5 of my realm publicly converts and changes the land to Old Germanic.  
+How is this possible? I haven't played since Conclave and I'm starting to see this function as a huge annoyance. I constantly have to revoke titles and turn to civil war. Anyone who publicly adopts the old ways are instantly revoked. Do they not know this? Why do they keep publicly adopting? The reformed religion is literally 33 times better than the old.
+How can they instantly turn vast plots of land to the old ways with their 3 MA? My learned priests can't keep up with the spread of this vile heresy.  
+I don't see other religions suffering from this problem. Take Catholicism, for example: I crushed these infidels to 60-75 MA and they only have 2/276 of their counties as heretical.  
+I am a glorious emperor with the strongest religion in the world and my subjects repay me with treachery! With the power to imprison Charlemagne, butcher and rape his children, plunder and sack the likes of Rome, Constantinople, Paris, Carthage and Alexandria; but can't keep my sons from publicly adopting this 3 MA, embarrassment of a religion.  
+Are my efforts to stomp out this heresy futile?
+
+
+Secret Religious Societies are new in the latest DLC and are in dire need of balancing.
+
+The issue is the new secret religious societies thing. It actually isn't that difficult to deal with, but it does make us play differently than we used to.
+
+I'm guessing you demanded a lot of conversions? Under the new patch, that's a risky thing to do, as people can now do phony conversions, pretending to observe the new ways while continuing to practice the old ways in secret. Worse, they can organize, practicing in secret while plotting to overthrow the new ways.
+
+I would say recruiting is a bit too easy at the moment (though I have observed that it is considerably more difficult with low diplomacy characters than one might assume). I also don't agree with letting unreformed pagans organize secret societies (I don't see unreformed paganism as being sufficiently united in stories and doctrines to work that way; the reformation *is* that process of standardization and unification). 
+
+But I do think the new mechanic adds well to the narrative, and it is easy enough to avoid, even in its current iteration. Don't ask your vassals to lie to you, and they won't. "Demand conversion" is just that: a demand, with consequences implied. It's a quick and easy path to religious unity... but it's a false unity, and long term it creates more problems than it solves. Better to take the slow path, the righteous path, of slowly converting through peaceful argumentation (which is to say, send your chaplain). And if you just have to have someone with the right religion in place, don't tempt the existing vassal to lie to you. Just enable religious revocation and replace him. He knew the risks of continuing to practice the old ways.
+

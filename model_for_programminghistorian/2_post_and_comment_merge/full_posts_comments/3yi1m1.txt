@@ -1,0 +1,18 @@
+Annexed nomad lands not letting me (a feudal ruler) install any vassals without first building castles?
+
+Pretty much what the title says. I took Azov from the Cumans (the entite duchy) and the game won't let me install vassals without first raping my treasury to build castles. Wtf is going on?  :(  
+
+Also I had some weirdness happen with Alania. Whenever I revoked the title of the holder (feudal lordin Abkazia) it would revert back to Cuman control..regardless of if I revoked his county or the duchy from him. Had to get around this the same way. Build castles first, which "stole" the land from him, then hand out the land and grant the duchy.  
+
+If this is how it's going to be, it's pretty much not even worth looking at nomad land beyond taking a county at a time.
+
+if that is the only land you are giving them, they can't have an empty country as a primary title. characters are tied to a government type and feudal rulers can't become nomad. a work around for this is to give one of your already existing vassals the empty country and they will eventually build something there for you. one step easier is giving it to an infidel with medium crown authority and you can revoke it for free later and hand it out to a new vassal
+
+All those empty Steppe provinces are really meant for tribals to expand to as it only costs miniscule amount of prestige to plonk down a tribal holding there, which of course non-tribals cannot do.
+
+Lesson learned, steppes are worthless if you are feudal/iqta/republic ruler :D
+
+You shouldn't need to build a holding in all of them, just one.
+
+Build a castle in one, and grant the county-level title to a courtier.  When you grant them the Duchy-level title, all of the empty provinces in that duchy should go with it.
+

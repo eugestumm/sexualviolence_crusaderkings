@@ -1,0 +1,105 @@
+It pains me how unpolished this game is
+
+For context, I have played this game on and off and have over 1000 hours. Obviously I like the game. My problem is that there are problems that feel like a modder could fix them, which is why I mostly with mods and also make my own mods. 
+
+I realize that there is a stereotype of a Paradox fan that plays for hundreds of hours and then goes on to complain about the lack of depth. My complaints are indeed about depth, but I admit the game has a lot of breadth. 
+
+When I talk about a lack of polish, what I mean is that when a new DLC releases and you get a new feature to play with, there's often something wrong with it. That's not a big problem because you can always fix them, but a lot of the time that just doesn't happen.
+
+Let me give an example from when the Friends and Foes update was released and gave us the memory system. I started a campaign and eventually found that my oldest son was not my heir. This was something I had missed. To be fair, the game gives a notification when that happens, but it's easily missed. That's my first problem, notifications. The game pauses everytime someone schemes against a rando at your court, but not for when **my oldest son became a Eunuch**. That's why he wasn't my heir. I also found that he had sired a bastard son, which I had also completely missed. I looked at his memories and **he had no memories of the birth of his only son - or having his dick cut off**. 
+
+The Friends and Foes DLC also expanded on rivalries. Nice, except you still don't get, say, a special casus belli when **a random tribal heathen kidnaps and rapes your wife and daughters**. That just didn't make the fucking list. You can get a house feud when someone from your hourse is murdered, which is good, but **murder is only a crime if it's against your close family**, so at most you can murder back. I tried murdering various Islamic houses into nonexistence but every ruler has 3 wifes each so good luck with that with your maximum 1 hostile scheme. 
+
+Fate of Iberia added the Rite tenet 9 months ago and the result is that the Pope can call separate Crusades for your new faith that instantly fails because that's not his own faith. Speaking of Crusades, you don't get notifications if you aren't Catholic or a defender, and once you have conquered the core Christian regions he starts picking targets that are months away from any Christian realm. In my last game a crusade for Persia was followed by one for central China and Japan, and if you don't play with a modded map he still really likes to go for distant lands like Pagan and eastern Tibet. 
+
+Speaking of the Pope, there's literally a decision to humiliate and/or crucify him but if a Caliph ever becomes your vassal you can't even revoke his titles because he's a temporal head of faith and he needs land. 
+
+I could go on and on with this, because I keep running into features that scream "Mod me". It's just tiring at this point and I don't think I will be buying future DLC unless the dev team steps up their game.
+
+I’ve been crying about 2 things since 2020:
+
+
+1. Let us actually revoke holy orders from counties.  A bug has always prevented the player from revoking hostile holy orders despite directly owning the county.  The workaround involves giving the title to a ghost mayor and revoking it later. 
+
+
+2. Provide an option to join your liege against populist factions that involve your counties.
+Just because my liege is in 5 wars with 45 troops left and will give in to the smallest factions doesn’t mean his giga vassal (me) can’t put those down.  I lost my entire capital duchy to a populist revolt that was 1/6 my army size because my liege gave into their demands without a fight.
+
+Do you know how incredibly bugged out the console version is? The controls are a joke, you sometimes have to fight the d pad just to move through a menu. The cursor drift is the worse I’ve ever seen. You sometimes can get stuck in tool tip mode and must restart your controller to get out of it. Sometimes the option to select just doesn’t show up in a menu, to the point that you have to restart the game just to change one of your councilors. It’s honestly ridiculous. 
+
+And multiplayer? Forget about it. You’re lucky if anything works the way it’s supposed to. 
+
+And I LOVE playing the game when it works right. But god damn do they not give two shits about quality of life.
+
+There’s a reason I’m still playing CK2
+
+CK3 is a game where winning holy wars makes it easier to convert to a different religion and catching somebody committing a crime makes it harder to imprison them.
+
+Or me playing an Iberian character for the first time (took a break after the update dropped) and finding out that I was too efficient in taking over so now I can't finish the struggle. Apparently if you just bulldoze everyone that doesn't end the struggle. Wtf?
+
+My favorite is how inviting characters to court is impossible.
+
+* My father-in-law is an independent count
+* He gets conquered and moves to a nearby kingdom, instead of moving to my court (where his only child lives)
+* He also refuses an invitation to join my court despite my gifts
+* I want to restore his county to him, so I conquer the county back from the usurper
+* Despite reconquering the county, I can't give it to him because he is abroad
+* Therefore I conquer the kingdom where he is staying, hoping that he will join my court
+* Instead, he teleports outside of diplorange
+
+Why is this so hard? Why can't you land landless characters outside of the realm? Why can't I offer to return titles to previous claimants?
+
+Inviting characters in CK2 was so easy, but in CK3 barely anyone joins you.
+
+Another thing is the conflict between religion and culture mechanics.
+
+Take the Nubians, Daju, or Akan, whose cultures make their succession female preference.
+
+Their religions however, are still male dominated.
+
+This means that while women get priority inheritance, you can't give women any land because the religion forbids it.
+
+The Male/Female/Equal part of religions should be given to cultures.
+
+If I were the devs, I would have polished the game before thinking of releasing any DLC. Seriously, I think almost every DLC brought new bugs. Did you know that your chaste/just spouse will chose to sleep with an inspired person? And this event makes no checks for soulmates. Just/honest characters can’t seduce people without stress but can romance despite that also being adultery. Makes complete sense. 
+
+I can’t even take this game seriously as an RP game. Like you said, significant events don’t get logged. My family members can f*k off to another court but I don’t get a notification for that. Can’t imprison people for valid reasons because they refuse. Your heir hustling his K/D ratio even when he’s just or compassionate. Gotta love the serial killer event. No. My soulmate husband made fun of me giving me a dumb nickname during a failed homage. Enjoy a second walk to Canossa dumbass. Just/honest characters killing themselves via stress by seducing random people. 
+
+Make a custom ruler/play as a kid/even educate a kid. Wait until they turn 16 only to get their education invalided because of a dumb bug the devs still have not fixed.
+
+Lastly, make an option where we could play with some of the bugs. As much as I’m annoyed at s lot of the bugs, some are just too funny. I could get my rival dad to loose opinion of himself for making a false feast invite.
+
+AAA game was released unfinished and won GOTY last year, this is where the culture of gaming is at. The fact that PDX usually tries to fix things is already several steps better than most companies, unfortunately
+
+Also, when can I imprison known criminals without tyranny?  A guy literally murdered my daughter in front of my whole court (that event from a feast) and it was still tyrannical to imprison him?  Absolutely inexcusable.
+
+Coming from stellaris devs to this game it really feels like j was spoiled by stellaris development. Stellaris goes back and adds new features to their old dlc/fixes bugs. 
+
+CK3 devs just feel like they don't care about the game or they're not allowed to release a finished product. So far all the ck3 dlcs have been shitty cash grabs, this is coming from someone that bought them all.
+
+I'm still very pissed that there are no Battlefield duels still and the player is hard coded to never become a knight. I have tried to die in battle so many times to see if there were hidden events, nothing. I know you can download a mod for this but this is something that is very basic and should be in the base game already.
+
+Brilliantly put.
+
+I quit a year ago. That's what more players need to do if they want to send a meaningful signal about the state of the game to pdx. Two and a half years of bug reporting just doesn't get them moving apparently.
+
+Preach brother!
+
+As a console player my pain is unimaginable.
+
+Lack of Polish? Nah I think they're in the game. In all seriousness just play ck2 with all the dlcs, it's better than ck3 by a lot
+
+As a whole, I feel as though CK3 lacks depth on top of being poorly optimized. 
+
+I still love the game but recognize the massive missed potential. 
+
+There’s just no depth to gameplay or nuance, not to mention that there is very little that is different in gameplay between a Count and Emperor.
+
+It pisses me off that so many mods have switched over to this buggy mess.
+
+> a special casus belli when a random tribal heathen kidnaps and rapes your wife and daughters.
+
+I just don't think this *should* be a casus belli.  Going to *war* for personal revenge?  Did this ever happen outside of legend?  I am honestly asking.  It seems like a matter for a duel, not for a war.
+
+The rest of your points seem solid.  Memories are very very strange in what they include and don't include.  "Murder is fine if it's not kinslaying" is very weird but idk whether it's based in history or not?  Weird Crusade bug, Caliph thing seems like an oversight, etc.  The Pope calling for bizarrely ambitious Crusades (he once sent one to Mongolia for me) late game is silly but maybe just to give you something to do in the end-game times.
+

@@ -1,0 +1,66 @@
+Mod to put Mecca to the torch
+
+As King of Jerusalem, I needed a way to reduce Islamic moral authority to assist in breaking up a Caliphate, so I fabricated claims all the way to Mecca, pushed them, 60,000 dead Muslims later and I own it. 
+
+This does not satisfy me, the -10 for owned holy site is a pittance, they are beaten, but their heathen temples are inadmissible blights on God's Earth. I feel his will flow through me. I am his vessel, his servant, all that his light touches, is rightfully his through my divine blood. Their insolence must be punished. 
+
+Deus Vult. 
+
+(I'm also looking for no-quarter, scorched earth, genocide and genocide-rape mods if anyone could hook me up)
+
+Everything okay, buddy?
+
+It would be nice if there were destruction events for major holy sites and monuments. Something like the conversion of the Hagia Sophia to a mosque or its outright destruction by pagans, the destruction of Rome or the destruction of the Kaaba.
+
+You feel "his" will, yet can't be bothered to capitalize His name?
+
+>"genocide-rape mods if anyone could hook me up"
+
+Wat
+
+well, since you mentioned scorched earth, you could probably achieve what you want by deleting this line in your settlement_decisions.txt
+
+"			is_nomadic = yes"
+
+you still need horse lords but it should allow every ruler to pillage anything they want.
+
+you gotta take it easy bro
+
+Now I want to make a nomad playthrough to pillage every holy site of every religion. 
+
+> (I'm also looking for no-quarter, scorched earth, genocide and genocide-rape mods if anyone could hook me up)
+
+/r/shitcrusaderkingssay
+
+I'm afraid I can't help you with the Muslim purge part, but here's a rape/torture mod: http://www.moddb.com/mods/underhanded-tactics-torture-rape-and-adultery
+
+No one has actually posted any mods yet.
+
+Deus fucking Vults Deusdamnit
+
+I think you should gain extra moral authority for taking a holy site in a holy war. The same thing would apply to losing one, I think this would model what you want, albeit with less flavor. 
+
+Dude, just play as a nomad. Want to burn Mecca to the ground? Just pillage it until it's pasture. Doing so will also turn the province's culture into yours, to represent population displacement or genocide.
+
+And there may be a way for you to become a nomad in that game: get a claim on a smaller Khaganate through marriage, and press it when they are weak, the new higher title's government form should become yours. Alania starts out as Christian, so you can marry in there.
+
+There's a lot to potentially comment on here, but I'm going to just focus on a Christian Crusader fabricating a claim on Mecca.  And the Saracens are all just like "Well sure it seems unlikely, but he's got the paperwork so..."
+
+A mod that allows for captured holy sites of infidel religions to be desecrated would be kind of cool, though it should be balanced out in such a manner that there isn't always a reason to do it. This should also only apply to organized religions if pagans are allowed to do it.
+
+Perhaps different effects depending on what the holy site is? Razing the Kaaba should infuriate the entire Muslim world, and putting Rome to the torch would have a similar effect on Catholics.
+
+God wills it!
+
+Woah. 
+
+I need help too. CK2 doesn't satisfy my bloodthirst. Is there any game where I can, like, exterminate a whole race?
+
+[deleted]
+
+[deleted]
+
+I need a mod that can let me do that irl.
+
+Haram!
+

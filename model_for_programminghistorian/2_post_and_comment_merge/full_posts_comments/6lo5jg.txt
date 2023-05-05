@@ -1,0 +1,48 @@
+How the hell do you raise large armies?
+
+Every campaign no matter who I play as, whenever I declare war on anyone, their levey is like twice the size of mine and i get my ass raped. My only chance of winning is when my allies do all the heavy lifting. How do i get my levied bigger?
+
+Also, whats the point of raising a army itself? the size is extremely small compared to what the leveis are
+
+[removed]
+
+Improve your [holdings](http://www.ckiiwiki.com/Holdings) and then your vassals holdings.  Stop playing pagans. Adjust your laws to require more levies. Improve your martial skill and have a marshal with a high one.
+
+[This is all in the wiki](http://www.ckiiwiki.com/Levies)
+
+Basically you want to have as large of a stable personal demense as possible, upgrade your the holdings you actually own (basically the castle you own in county) with all the things that say they increase levy size primarily.
+
+I also recommend that you shift laws to favor taxation from burghers and clergymen as opposed to levies as the levies your city and chruch vassals provide are pretty bad. It is much more worth it to be getting the extra tax income to further upgrade holdings and finance your army.
+
+Keep your vassals happy, and slowly increase things like crown authority (while still keeping them happy) to increase the amount of troops they will provide you.
+
+Make sure you have your marshal in your capital on a counsel mission to increase levies.
+
+Once you have a stable income I'd say you should also begin investing in retinues, which are basically small armies of a single unit type. The defense retinue is typically the best retinue as the pikemen which make up the majority of it are usually the best you can buy for battle for a cheaper cost. Keep in mind that they will take a large amount of your monthly income while they are reinforcing depending on the speed you have set for them to reinforce after troops die. Use max speed when you can afford it, half speed during wars (so they still reinforce while not killing your coffers) so long as you can afford it. In the even that the montly cost will quickly bankrupt you, just set them to not reinforce temporarily. The standing army (retinues) will also cost a lot to maintain when they are fully reinforced, typically only 2-3 gold per month.
+
+In the event that you will not be able to take on your foes (you can check their levy size on their character portrait for a general idea), you will need the help of others. This is where political marriages come into play. Marry off your generally useless daughters to all the biggest bois in Europe to gain alliances. This will let you call them into your wars to help if they like you. Be sure to keep in mind that they can call you into their wars too! Refusing their call will cost you lots of prestige, make everyone hate you with the "alliance-breaker" opinion modifier, and will also break the alliance you fucked so hard to gain. Just because you are allies in the war doesn't mean you actually have to do anything to help. You will receive no real penalties if you do not decide to throw troops into a foreign war if you do not want to.
+
+If you simply cannot win a war as the aggressor,it is far better to settle for a white peace instead of losing and having to pay a lot of money to the defender.
+
+If cannot win as a defender you can either take the loss and try to move on withing the ten year truce you have with your attacker, convert to the attackers faith (holy wars only) and either stay that faith or convert back at a later time, or in the most dire of situations, you can willingly become a vassal of a larger ruler. They will defend your lands from attacks, meanwhile you can basically expand within the kingdom or outside to your whim at the expense of less freedom. Once inside another kingdom you become tasked with either marrying your way to the throne, getting enough of your fellow pissed off vassals to revolt with you and place you on the throne, or you can gain enough power from within to regain your independence. 
+
+We'll need a bit more context as in what type of gov't and religion vs what your opponent is, but assuming standard Christian Feudal vs the same, your army size is mainly determined by your demesne levies and whatever your vassals are willing to offer. In general, larger demesne means a larger personal army. 
+
+The higher your vassals opinions are of you the more levies you recieve. Or you have high CA.
+
+What start are you using? My first game as Castile only ever had one war against an enemy with a larger army than me.
+
+As I mentioned below, I would look for a feudal start as that is easiest way to understand the game. Now, as long as you are independent then you get a 50% boost to levies in your capital and a 25% boost to levies in your capital duchy. This means you need to own your capital duchy at the very least. You can plot to revoke any county in your capital duchy so do not be afraid to do so, they have higher troops so why not.
+
+Now, if you have a high martial score martial then leave him in your capital to increase levy size and this all stacks. If you do not have a high martial score martial then invite one.
+
+Upgrade your holdings in your capital, the capital will create lots of troops due to council job stacking with capital bonus. If severely under powered then consider a second castle in your capital.
+
+Different pagan faiths also gain bonuses to levy/garrison numbers. If you are low on money then try playing as a raiding culture and take money that way. Most important thing to remember is to upgrade if you have the cash. And if push comes to shove, have enough money to get mercs. Get retinues later in the game.
+
+Like what the others said here, upgrading your demesne holdings is a must, if you have the Way of Life DLC be sure to take the Business focus to generate more income. Use the money to slowly upgrade your holdings, start with castle walls as they're one of the cheapest(If your holding doesn't have one), after that, focus on economic upgrades first( Castle towns, markets, ports) then to military upgrades(Keep, Training grounds, militia training grounds)
+
+
+
+Do this for each of the counties you hold, and don't forget to tax the shit out of your mayors and priests, who gives a shit about em anyway? They're not as dangerous as your feudal vassals.
+

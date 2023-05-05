@@ -1,0 +1,14 @@
+I can't arrange any marriages or betrothals suddenly. Help?
+
+So I have been working on an Old Gods playthrough as Sweden and reformed the faith, made empire of Scandanavia and placed strong reformed norse kingdoms in the entirety of the Wendish and Russian Empires then gave the kingdoms freedom to see what would happen. Now at this point as a 38yr old male fylkir I seem to no longer be able to arrange marriages. None at all. For courtiers, my children, vassals. When I click arrange marriage or betrothal the list is completely empty. I have 8 children and can't arrange a marriage for any of them and don't get offers from other rulers. There is no heresy, everyone is the same culture and religion I don't get it. I tried to reload same thing I don't know how far back whatever issue this is happened and googling turned up no viable solutions or mentions of a bug. 
+
+This is totally game breaking as my heirs cant marry and it's frustrating because it's now 1000 AD and I wanted to really see what the map would turn out like with all the religious stuff happening. Orthodox is gone and ERE went Catholic. Jewish Kazaria raped the Cuman and all the turkic regions are Jewish. Shia won the holy war and Muslims own all of Iberia and in a couple hundred years doomstacks of Quezelqotl worshipping heathens are gonna land on western europe and set to make a perfect storm of a strong catholic, jewish, norse, muslim, tengri and Nahuatl shit show and I REALLY don't want to have to walk away from this save as I likely won't have the will to do it all again.
+
+Help? Advice?
+
+EDIT: /u/FantasyHeaven figured it out, owning a Holy Order does this. All solved thx guys.
+
+first of all try reloading. secondly, since you've already done that, check if your children are in another court, and if your courtiers are in fact all vassals that appear in the court section. since you've probably done that too, if that doesn't work just get into the script - or make a post on the paradox forum.
+
+Are you the head of a holy order?
+

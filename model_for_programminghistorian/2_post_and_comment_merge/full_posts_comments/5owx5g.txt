@@ -1,0 +1,29 @@
+Game difficulty levels
+
+I only just realized there are other difficulty levels than *normal*.
+
+I love the game to bits. But the fact that one minute you can outsmart a rival count because of AI restrictions and the next a doomstack is taking your castle apart stone by stone and raping your wife.
+
+How does the difficulty level affect the game?
+
+Increasing the difficulty level [gives AI rulers bonuses to morale](http://www.ckiiwiki.com/Warfare#Game_Difficulty) and income. The AI morale bonus seems like it would make the game *more frustrating* more than it makes the game harder. The AI income bonus seems like it would unbalance the economy while making it *easier* to gain massive stockpiles of cash by seizing it.
+
+I don't recommend increasing the difficulty level. If you need a challenge, impose restrictions on yourself, like:
+
+* Don't hire mercenaries, except to match enemy use of mercs.
+* Don't call allies to war unless you have the same liege or are both independent.
+* Don't break betrothals if you have used the betrothal to call an ally to arms.
+* Don't intentionally educate kids as infidels in order to holy-war or revoke from them later.
+
+Or forgo the overpowered continuity of your realm's rule, by selecting a new dynasty member to `play` as after succession:
+
+* Someone who becomes landed at least 20 years after your previous character's death (using `observe` between generations)
+* Someone whose tier is count
+* Someone who inherits a hidden gene from your first character
+
+I used the first two for a while, and am trying the third in my current game.
+
+I've seen mention of difficulty levels here before, but I've never seen in-game how one would go about accessing it. What are you referring to?
+
+Other characters are more reluctant to accept offers like marriage, invitation, etc.
+

@@ -1,0 +1,2 @@
+the comments.csv file has this structure post_id,comment_id,comment,score,ups,downs,compound,pos,neu,neg
+posts.csv file has this structure post_id,title,body,score,ups,downs,title_compound,title_pos,title_neu,title_neg,body_compound,body_pos,body_neu,body_neg
