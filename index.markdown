@@ -29,12 +29,12 @@ I diveded this code into 5 main steps, and one additional step for including qui
 If you wanna experiment with different data samples, please make sure to manually copy the data you scraped from Reddit to one folder to the other.
 
 
-- [Scraping data from Reddit using PRAW library](/tutorial/2023-04-25-1_praw_scrap_ck_reddit_rape)
-- [(Optional) Preparing the data to be used with other NLP techniques!](/tutorial/2023-04-26-2_merge_posts_comments)
-- [Introduction to VADER (Valence Aware Dictionary and sEntiment Reasoner) Sentiment Analysis tool](/tutorial/2023-04-27-3_introduction_to_vader)
-- [Using VADER to generate a sentiment analysis of the reddit posts, titles, and comments](/tutorial/2023-04-28-4_sentiment_analysis)
-- [Visualizing Sentiment Analysis data](/tutorial/2023-05-04-5_visualization_sentiment_analysis)
-- [(Optional) Pandas Profiling quick visualization](/tutorial/2023-05-05-6_pandas_profiling_visualization)
+- [Scraping data from Reddit using PRAW library](https://eugestumm.github.io/sexualviolence_crusaderkings/tutorial/2023-04-25-1_praw_scrap_ck_reddit_rape)
+- [(Optional) Preparing the data to be used with other NLP techniques!](https://eugestumm.github.io/sexualviolence_crusaderkings/tutorial/2023-04-26-2_merge_posts_comments)
+- [Introduction to VADER (Valence Aware Dictionary and sEntiment Reasoner) Sentiment Analysis tool](https://eugestumm.github.io/sexualviolence_crusaderkings/tutorial/2023-04-27-3_introduction_to_vader)
+- [Using VADER to generate a sentiment analysis of the reddit posts, titles, and comments](https://eugestumm.github.io/sexualviolence_crusaderkings/tutorial/2023-04-28-4_sentiment_analysis)
+- [Visualizing Sentiment Analysis data](https://eugestumm.github.io/sexualviolence_crusaderkings/tutorial/2023-05-04-5_visualization_sentiment_analysis)
+- [(Optional) Pandas Profiling quick visualization](https://eugestumm.github.io/sexualviolence_crusaderkings/tutorial/2023-05-05-6_pandas_profiling_visualization)
 
 
 ## Bibliography
